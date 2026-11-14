@@ -1,0 +1,21 @@
+genre,movies,avg_minutes,shortest,longest
+Classic Movies,103,115.6,18,228
+Dramas,2106,113.4,8,312
+Action & Adventure,721,113.3,5,214
+International Movies,2437,110.8,5,312
+Romantic Movies,531,110.7,46,233
+Music & Musicals,321,108.7,15,224
+Thrillers,491,106.9,28,171
+Sci-Fi & Fantasy,218,105.8,3,312
+Faith & Spirituality,57,105.2,32,205
+Cult Movies,59,104.7,47,172
+Comedies,1471,104.6,23,253
+Independent Movies,673,100.8,15,189
+Horror Movies,312,97.5,29,171
+Sports Movies,196,95.4,12,161
+LGBTQ Movies,90,94.0,17,132
+Anime Features,57,91.2,5,130
+Documentaries,786,81.4,10,208
+Children & Family Movies,532,79.7,3,152
+Stand-Up Comedy,329,67.1,28,146
+Movies,56,45.9,14,92

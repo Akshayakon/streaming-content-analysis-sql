@@ -1,0 +1,11 @@
+type,genre,titles,rnk
+Movie,International Movies,2437,1
+Movie,Dramas,2106,2
+Movie,Comedies,1471,3
+Movie,Documentaries,786,4
+Movie,Action & Adventure,721,5
+TV Show,International TV Shows,1199,1
+TV Show,TV Dramas,704,2
+TV Show,TV Comedies,525,3
+TV Show,Crime TV Shows,427,4
+TV Show,Kids' TV,414,5
